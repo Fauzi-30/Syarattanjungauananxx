@@ -1,4 +1,4 @@
-<!DOCTYPE html>Add commentMore actions
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -213,7 +213,7 @@
       </div>
     </div>
 
-  </div>Add commentMore actions
+  </div>
 
 </body>
 </html>
